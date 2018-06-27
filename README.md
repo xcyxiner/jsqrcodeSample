@@ -3,7 +3,7 @@
 ![支持的浏览器](https://img-blog.csdn.net/20151110105736384?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
 
 
-##参考链接
+# 参考链接
 * [web/html5调用摄像头实现二维码扫描](https://blog.csdn.net/xuewufeifang/article/details/49756099)
 * [JS调用安卓手机摄像头扫描二维码并用JS解析二维码](https://blog.csdn.net/qq_33768099/article/details/79743651)
 * [LazarSoft/jsqrcode](https://github.com/LazarSoft/jsqrcode)
@@ -12,10 +12,10 @@
 * [使用Nodejs快速搭建一个的本地静态文件服务器](https://blog.csdn.net/u014291497/article/details/52975321)
 
 
-##前置条件
+# 前置条件
 * 需要安装 node 
 
-##关于运行
+# 关于运行
 
 
 ```
@@ -29,10 +29,10 @@ node server.js
 sh 1.sh
 ```
 
-##示例二维码以及扫码后的截屏见screen_shot目录
+# 示例二维码以及扫码后的截屏见screen_shot目录
 
 
-##目录结构
+# 目录结构
 ```
 ├── 1.sh
 ├── README.md
