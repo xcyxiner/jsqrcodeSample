@@ -1,0 +1,26 @@
+{
+  "name": "jsqrcodesample",
+  "version": "1.0.0",
+  "description": "安卓手机，js调用系统摄像头扫码二维码并识别，推荐火狐以及谷歌浏览器(只测试了火狐) ![支持的浏览器](https://img-blog.csdn.net/20151110105736384?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)",
+  "main": "server.js",
+  "dependencies": {
+    "connect": "^3.6.6",
+    "path": "^0.12.7",
+    "serve-static": "^1.13.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://xcyxiner@github.com/xcyxiner/jsqrcodeSample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xcyxiner/jsqrcodeSample/issues"
+  },
+  "homepage": "https://github.com/xcyxiner/jsqrcodeSample#readme"
+}
